@@ -1,0 +1,13 @@
+ ul  li{
+    list-style-type: none;
+    display: flex;
+    margin-left: 60%;
+    
+}
+h1{
+    margin-left: 60%;
+}
+form{
+    display: block;
+   margin-top: -10% fixed;
+}
